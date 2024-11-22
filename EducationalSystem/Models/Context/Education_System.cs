@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics.Metrics;
+using System.Reflection;
 
 namespace EducationalSystem.Models.Context
 {
@@ -18,8 +19,9 @@ namespace EducationalSystem.Models.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
+        
         public DbSet<Courses> Courses { get; set; }
         public DbSet<Course_Enrollments> Course_Enrollments { get; set; }
         public DbSet<Categories> Categories { get; set; }

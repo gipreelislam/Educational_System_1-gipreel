@@ -1,6 +1,6 @@
 ﻿namespace EducationalSystem.Models
 {
-    public class Choices
+    public class Choices : BaseEntity
     {
         public int ChoiceID { get; set; } 
         public int QuestionID { get; set; }

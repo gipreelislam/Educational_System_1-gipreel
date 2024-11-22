@@ -1,6 +1,6 @@
 ﻿namespace EducationalSystem.Models
 {
-    public class Comments
+    public class Comments : BaseEntity
     {
         public int CommentID { get; set; }
         public int LessonID { get; set; }

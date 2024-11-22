@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace EducationalSystem.Models
+﻿namespace EducationalSystem.Models
 {
     public class Courses
     {
@@ -8,9 +6,9 @@ namespace EducationalSystem.Models
         public string CourseTitle { get; set; }
         public string Description { get; set; }
         public int CategoryID { get; set; }
-        public DateTime CreatedDate { get; set; }
+        public DateTime? CreatedDate { get; set; }
         public string ThumbnailURL { get; set; }
-        public double Price { get; set; }
+        public decimal TotalAmount { get; set; }
         public ICollection<Lessons>? Lessons { get; set; }
         public ICollection<Discounts>? Discounts { get; set; }
         public ICollection<Assessments>? Assessments { get; set; }

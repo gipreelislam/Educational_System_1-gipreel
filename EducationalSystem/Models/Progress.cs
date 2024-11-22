@@ -1,6 +1,6 @@
 ﻿namespace EducationalSystem.Models
 {
-    public class Progress
+    public class Progress : BaseEntity
     {
         public int ProgressID { get; set; }
         public int UserID { get; set; }

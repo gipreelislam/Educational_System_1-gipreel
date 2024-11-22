@@ -1,6 +1,6 @@
 ﻿namespace EducationalSystem.Models
 {
-    public class Questions
+    public class Questions : BaseEntity
     {
         public int QuestionID { get; set; }
         public int AssessmentID { get; set; }

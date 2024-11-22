@@ -2,7 +2,7 @@
 
 namespace EducationalSystem.Models
 {
-    public class Assessments
+    public class Assessments : BaseEntity
     {
         public int AssessmentID { get; set; }
         public int CourseID { get; set; }

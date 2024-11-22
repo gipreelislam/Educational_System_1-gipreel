@@ -1,6 +1,6 @@
 ﻿namespace EducationalSystem.Models
 {
-    public class Categories
+    public class Categories : BaseEntity
     {
         public int CategoryId { get; set; }
         public string CategoryName { get; set; }
