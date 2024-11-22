@@ -3,12 +3,68 @@
   "WorkspaceRootPath": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\config\\assessment_resultsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\config\\assessment_resultsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\context\\education_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\context\\education_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\lessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\lessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\lesson_completions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\lesson_completions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\instructors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\course_enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\course_enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\choices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\choices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\assessments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\assessments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\assessment_results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\assessment_results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|f:\\full projects\\educational system\\educational_system\\educationalsystem\\models\\config\\assessmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C084AF2-BBB5-46C1-BBBC-115C535DC5F8}|EducationalSystem.csproj|solutionrelative:models\\config\\assessmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,27 +83,197 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAABTAAAAAAAAAA==",
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T16:56:10.394Z"
+              "WhenOpened": "2024-11-22T12:06:28.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Education_System.cs",
               "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Context\\Education_System.cs",
               "RelativeDocumentMoniker": "Models\\Context\\Education_System.cs",
               "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Context\\Education_System.cs",
               "RelativeToolTip": "Models\\Context\\Education_System.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAywB8AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T16:44:50.98Z",
+              "WhenOpened": "2024-11-22T11:53:32.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "Models\\Categories.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Categories.cs",
+              "RelativeToolTip": "Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:52:08.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Questions.cs",
+              "RelativeDocumentMoniker": "Models\\Questions.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Questions.cs",
+              "RelativeToolTip": "Models\\Questions.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:50:46.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Progress.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Progress.cs",
+              "RelativeDocumentMoniker": "Models\\Progress.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Progress.cs",
+              "RelativeToolTip": "Models\\Progress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:50:05.068Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lessons.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Lessons.cs",
+              "RelativeDocumentMoniker": "Models\\Lessons.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Lessons.cs",
+              "RelativeToolTip": "Models\\Lessons.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:43:42.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lesson_Completions.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Lesson_Completions.cs",
+              "RelativeDocumentMoniker": "Models\\Lesson_Completions.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Lesson_Completions.cs",
+              "RelativeToolTip": "Models\\Lesson_Completions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:42:24.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Instructors.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Instructors.cs",
+              "RelativeDocumentMoniker": "Models\\Instructors.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Instructors.cs",
+              "RelativeToolTip": "Models\\Instructors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:41:51.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Courses.cs",
+              "RelativeDocumentMoniker": "Models\\Courses.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Courses.cs",
+              "RelativeToolTip": "Models\\Courses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:40:08.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course_Enrollments.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Course_Enrollments.cs",
+              "RelativeDocumentMoniker": "Models\\Course_Enrollments.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Course_Enrollments.cs",
+              "RelativeToolTip": "Models\\Course_Enrollments.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA9wAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:39:45.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Comments.cs",
+              "RelativeDocumentMoniker": "Models\\Comments.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Comments.cs",
+              "RelativeToolTip": "Models\\Comments.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:39:23.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Choices.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Choices.cs",
+              "RelativeDocumentMoniker": "Models\\Choices.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Choices.cs",
+              "RelativeToolTip": "Models\\Choices.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:38:58.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Assessments.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Assessments.cs",
+              "RelativeDocumentMoniker": "Models\\Assessments.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Assessments.cs",
+              "RelativeToolTip": "Models\\Assessments.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:37:36.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssessmentConfiguration.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Config\\AssessmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Models\\Config\\AssessmentConfiguration.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Config\\AssessmentConfiguration.cs",
+              "RelativeToolTip": "Models\\Config\\AssessmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:25:35.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assessment_ResultsConfiguration.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Config\\Assessment_ResultsConfiguration.cs",
+              "RelativeDocumentMoniker": "Models\\Config\\Assessment_ResultsConfiguration.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Config\\Assessment_ResultsConfiguration.cs",
+              "RelativeToolTip": "Models\\Config\\Assessment_ResultsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:25:30.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Assessment_Results.cs",
+              "DocumentMoniker": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Assessment_Results.cs",
+              "RelativeDocumentMoniker": "Models\\Assessment_Results.cs",
+              "ToolTip": "F:\\FULL Projects\\Educational System\\Educational_System\\EducationalSystem\\Models\\Assessment_Results.cs",
+              "RelativeToolTip": "Models\\Assessment_Results.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:24:50.346Z"
             }
           ]
         }
