@@ -1,0 +1,12 @@
+C:\Users\moham\Source\Repos\Educational_System\EducationalSystem.BLL\bin\Debug\net8.0\EducationalSystem.BLL.deps.json
+C:\Users\moham\Source\Repos\Educational_System\EducationalSystem.BLL\bin\Debug\net8.0\EducationalSystem.BLL.dll
+C:\Users\moham\Source\Repos\Educational_System\EducationalSystem.BLL\bin\Debug\net8.0\EducationalSystem.BLL.pdb
+C:\Users\moham\Source\Repos\Educational_System\EducationalSystem.BLL\obj\Debug\net8.0\EducationalSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Source\Repos\Educational_System\EducationalSystem.BLL\obj\Debug\net8.0\EducationalSystem.BLL.AssemblyInfoInputs.cache
+C:\Users\moham\Source\Repos\Educational_System\EducationalSystem.BLL\obj\Debug\net8.0\EducationalSystem.BLL.AssemblyInfo.cs
+C:\Users\moham\Source\Repos\Educational_System\EducationalSystem.BLL\obj\Debug\net8.0\EducationalSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\moham\Source\Repos\Educational_System\EducationalSystem.BLL\obj\Debug\net8.0\EducationalSystem.BLL.sourcelink.json
+C:\Users\moham\Source\Repos\Educational_System\EducationalSystem.BLL\obj\Debug\net8.0\EducationalSystem.BLL.dll
+C:\Users\moham\Source\Repos\Educational_System\EducationalSystem.BLL\obj\Debug\net8.0\refint\EducationalSystem.BLL.dll
+C:\Users\moham\Source\Repos\Educational_System\EducationalSystem.BLL\obj\Debug\net8.0\EducationalSystem.BLL.pdb
+C:\Users\moham\Source\Repos\Educational_System\EducationalSystem.BLL\obj\Debug\net8.0\ref\EducationalSystem.BLL.dll

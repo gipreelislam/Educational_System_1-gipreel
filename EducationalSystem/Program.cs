@@ -1,5 +1,5 @@
 
-using EducationalSystem.Models.Context;
+using EducationalSystem.DAL.Models.Context;
 using Microsoft.EntityFrameworkCore;
 
 namespace EducationalSystem
